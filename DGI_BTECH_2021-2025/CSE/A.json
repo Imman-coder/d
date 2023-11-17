@@ -1,0 +1,209 @@
+{
+    "EventTable": [
+        [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        [
+            8,
+            2,
+            5,
+            4,
+            6
+        ],
+        [
+            10,
+            11,
+            5,
+            3,
+            4
+        ],
+        [
+            6,
+            7,
+            2,
+            4,
+            5,
+            3,
+            1
+        ],
+        [
+            12,
+            3,
+            5,
+            2,
+            1
+        ],
+        [
+            4,
+            13,
+            1,
+            14
+        ]
+    ],
+    "TimeList": [
+        555,
+        615,
+        675,
+        735,
+        795,
+        855,
+        915,
+        975
+    ],
+    "EventList": {
+        "1": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Operating System (OS)",
+                    "subject_code": "",
+                    "teacher": "Mousami Acharya"
+                }
+            ],
+            "class_type": 0
+        },
+        "2": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Database Enginnering",
+                    "subject_code": "",
+                    "teacher": "Sikheresh Barik"
+                }
+            ],
+            "class_type": 0
+        },
+        "3": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Software Engineering",
+                    "subject_code": "",
+                    "teacher": "Surodeep Mohanty"
+                }
+            ],
+            "class_type": 0
+        },
+        "4": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Compiler Design",
+                    "subject_code": "",
+                    "teacher": "Neva Tripathy"
+                }
+            ],
+            "class_type": 0
+        },
+        "5": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Lunch",
+                    "subject_code": "",
+                    "teacher": ""
+                }
+            ],
+            "class_type": "2"
+        },
+        "6": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Advance Computer Architecture",
+                    "subject_code": "",
+                    "teacher": "Rosalin Das"
+                }
+            ],
+            "class_type": 0
+        },
+        "7": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Soft Skill(SoftSkill)",
+                    "subject_code": "",
+                    "teacher": "(RM)"
+                }
+            ],
+            "class_type": 0
+        },
+        "8": {
+            "time_span": "3",
+            "subjects": [
+                {
+                    "subject": "Operaing System",
+                    "subject_code": "",
+                    "teacher": "Mousami Acharya / A R"
+                }
+            ],
+            "class_type": "1"
+        },
+        "9": {
+            "time_span": 1,
+            "subjects": [],
+            "class_type": 0
+        },
+        "10": {
+            "time_span": "3",
+            "subjects": [
+                {
+                    "subject": "Database Engineering",
+                    "subject_code": "",
+                    "teacher": "Sikheresh Barik / Rosalin Das"
+                }
+            ],
+            "class_type": "1"
+        },
+        "11": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Library",
+                    "subject_code": "",
+                    "teacher": ""
+                }
+            ],
+            "class_type": "2"
+        },
+        "12": {
+            "time_span": "3",
+            "subjects": [
+                {
+                    "subject": "Compiler Designing",
+                    "subject_code": "",
+                    "teacher": "Neva Tripathy / K P"
+                }
+            ],
+            "class_type": "1"
+        },
+        "13": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Aptitude(Apti.)",
+                    "subject_code": "",
+                    "teacher": "P K S"
+                }
+            ],
+            "class_type": 0
+        },
+        "14": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "Essence of Indian Tradition Kknowledge(EITK)",
+                    "subject_code": "",
+                    "teacher": "Anshuman Mahapatra"
+                }
+            ],
+            "class_type": 0
+        }
+    }
+}
