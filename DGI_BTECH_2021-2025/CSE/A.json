@@ -35,14 +35,14 @@
             1,
             7,
             6,
-            15,
+            14,
             3,
             10,
             8
         ],
         [
             6,
-            15,
+            14,
             7,
             13,
             3
@@ -63,7 +63,7 @@
             "time_span": 1,
             "subjects": [
                 {
-                    "subject": "(EC)",
+                    "subject": "E-Commerce and ERP(EC)",
                     "subject_code": "",
                     "teacher": "(AR)"
                 }
@@ -74,7 +74,7 @@
             "time_span": "3",
             "subjects": [
                 {
-                    "subject": "(AP)",
+                    "subject": "Advance Programming(AP)",
                     "subject_code": "",
                     "teacher": "(MR/MA)"
                 }
@@ -96,7 +96,7 @@
             "time_span": 1,
             "subjects": [
                 {
-                    "subject": "(AP)",
+                    "subject": "Advance Programming(AP)",
                     "subject_code": "",
                     "teacher": "(MR)"
                 }
@@ -118,7 +118,7 @@
             "time_span": 1,
             "subjects": [
                 {
-                    "subject": "(DCCN)",
+                    "subject": "Data Communication and Computer Network(DCCN)",
                     "subject_code": "",
                     "teacher": "(TKS)"
                 }
@@ -129,7 +129,7 @@
             "time_span": 1,
             "subjects": [
                 {
-                    "subject": "(DWDM)",
+                    "subject": "Data Warehouse and Data Mining(DWDM)",
                     "subject_code": "",
                     "teacher": "(SM)"
                 }
@@ -151,7 +151,7 @@
             "time_span": "3",
             "subjects": [
                 {
-                    "subject": "(CN AB)",
+                    "subject": "Computer Networking(CN AB)",
                     "subject_code": "",
                     "teacher": "(TKS/AR)"
                 }
@@ -162,7 +162,7 @@
             "time_span": 1,
             "subjects": [
                 {
-                    "subject": "(BCSI)",
+                    "subject": "Business Communication and Skill for Interview(BCSI)",
                     "subject_code": "",
                     "teacher": ""
                 }
@@ -173,7 +173,7 @@
             "time_span": "1",
             "subjects": [
                 {
-                    "subject": "(APTI)",
+                    "subject": "Aptitude(APTI)",
                     "subject_code": "",
                     "teacher": ""
                 }
@@ -184,7 +184,7 @@
             "time_span": "2",
             "subjects": [
                 {
-                    "subject": "(STW)",
+                    "subject": "Seminar and Technical Report Writing(STW)",
                     "subject_code": "",
                     "teacher": ""
                 }
@@ -204,14 +204,9 @@
         },
         "14": {
             "time_span": 1,
-            "subjects": [],
-            "class_type": 0
-        },
-        "15": {
-            "time_span": 1,
             "subjects": [
                 {
-                    "subject": "(CLE)",
+                    "subject": "Cyber Law and Ethics(CLE)",
                     "subject_code": "",
                     "teacher": "(PM)"
                 }
