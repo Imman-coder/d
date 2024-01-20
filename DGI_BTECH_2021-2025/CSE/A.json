@@ -35,14 +35,14 @@
             1,
             7,
             6,
-            14,
+            15,
             3,
             10,
             8
         ],
         [
             6,
-            14,
+            15,
             7,
             13,
             3
@@ -64,7 +64,7 @@
             "subjects": [
                 {
                     "subject": "E-Commerce and ERP(EC)",
-                    "subject_code": "",
+                    "subject_code": "CST309",
                     "teacher": "(AR)"
                 }
             ],
@@ -75,7 +75,7 @@
             "subjects": [
                 {
                     "subject": "Advance Programming(AP)",
-                    "subject_code": "",
+                    "subject_code": "CSS306",
                     "teacher": "(MR/MA)"
                 }
             ],
@@ -97,7 +97,7 @@
             "subjects": [
                 {
                     "subject": "Advance Programming(AP)",
-                    "subject_code": "",
+                    "subject_code": "CST310",
                     "teacher": "(MR)"
                 }
             ],
@@ -119,7 +119,7 @@
             "subjects": [
                 {
                     "subject": "Data Communication and Computer Network(DCCN)",
-                    "subject_code": "",
+                    "subject_code": "CST311",
                     "teacher": "(TKS)"
                 }
             ],
@@ -130,7 +130,7 @@
             "subjects": [
                 {
                     "subject": "Data Warehouse and Data Mining(DWDM)",
-                    "subject_code": "",
+                    "subject_code": "CST314",
                     "teacher": "(SM)"
                 }
             ],
@@ -152,7 +152,7 @@
             "subjects": [
                 {
                     "subject": "Computer Networking(CN AB)",
-                    "subject_code": "",
+                    "subject_code": "CSS305",
                     "teacher": "(TKS/AR)"
                 }
             ],
@@ -185,7 +185,7 @@
             "subjects": [
                 {
                     "subject": "Seminar and Technical Report Writing(STW)",
-                    "subject_code": "",
+                    "subject_code": "CSS304",
                     "teacher": ""
                 }
             ],
@@ -202,12 +202,12 @@
             ],
             "class_type": 0
         },
-        "14": {
+        "15": {
             "time_span": 1,
             "subjects": [
                 {
                     "subject": "Cyber Law and Ethics(CLE)",
-                    "subject_code": "",
+                    "subject_code": "HST301",
                     "teacher": "(PM)"
                 }
             ],
