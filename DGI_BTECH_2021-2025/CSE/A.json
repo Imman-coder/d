@@ -103,6 +103,17 @@
             ],
             "class_type": 0
         },
+        "5": {
+            "time_span": 1,
+            "subjects": [
+                {
+                    "subject": "(Soft Skill)",
+                    "subject_code": "",
+                    "teacher": ""
+                }
+            ],
+            "class_type": 0
+        },
         "6": {
             "time_span": 1,
             "subjects": [
@@ -189,6 +200,11 @@
                     "teacher": ""
                 }
             ],
+            "class_type": 0
+        },
+        "14": {
+            "time_span": 1,
+            "subjects": [],
             "class_type": 0
         },
         "15": {
